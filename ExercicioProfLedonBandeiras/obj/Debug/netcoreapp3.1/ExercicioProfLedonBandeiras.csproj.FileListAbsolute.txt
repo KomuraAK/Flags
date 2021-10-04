@@ -1,0 +1,17 @@
+C:\Users\Skip\source\repos\ExercicioProfLedonBandeiras\ExercicioProfLedonBandeiras\bin\Debug\netcoreapp3.1\ExercicioProfLedonBandeiras.exe
+C:\Users\Skip\source\repos\ExercicioProfLedonBandeiras\ExercicioProfLedonBandeiras\bin\Debug\netcoreapp3.1\ExercicioProfLedonBandeiras.deps.json
+C:\Users\Skip\source\repos\ExercicioProfLedonBandeiras\ExercicioProfLedonBandeiras\bin\Debug\netcoreapp3.1\ExercicioProfLedonBandeiras.runtimeconfig.json
+C:\Users\Skip\source\repos\ExercicioProfLedonBandeiras\ExercicioProfLedonBandeiras\bin\Debug\netcoreapp3.1\ExercicioProfLedonBandeiras.runtimeconfig.dev.json
+C:\Users\Skip\source\repos\ExercicioProfLedonBandeiras\ExercicioProfLedonBandeiras\bin\Debug\netcoreapp3.1\ExercicioProfLedonBandeiras.dll
+C:\Users\Skip\source\repos\ExercicioProfLedonBandeiras\ExercicioProfLedonBandeiras\bin\Debug\netcoreapp3.1\ExercicioProfLedonBandeiras.pdb
+C:\Users\Skip\source\repos\ExercicioProfLedonBandeiras\ExercicioProfLedonBandeiras\obj\Debug\netcoreapp3.1\ExercicioProfLedonBandeiras.csproj.AssemblyReference.cache
+C:\Users\Skip\source\repos\ExercicioProfLedonBandeiras\ExercicioProfLedonBandeiras\obj\Debug\netcoreapp3.1\ExercicioProfLedonBandeiras.Form1.resources
+C:\Users\Skip\source\repos\ExercicioProfLedonBandeiras\ExercicioProfLedonBandeiras\obj\Debug\netcoreapp3.1\ExercicioProfLedonBandeiras.csproj.GenerateResource.cache
+C:\Users\Skip\source\repos\ExercicioProfLedonBandeiras\ExercicioProfLedonBandeiras\obj\Debug\netcoreapp3.1\ExercicioProfLedonBandeiras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Skip\source\repos\ExercicioProfLedonBandeiras\ExercicioProfLedonBandeiras\obj\Debug\netcoreapp3.1\ExercicioProfLedonBandeiras.AssemblyInfoInputs.cache
+C:\Users\Skip\source\repos\ExercicioProfLedonBandeiras\ExercicioProfLedonBandeiras\obj\Debug\netcoreapp3.1\ExercicioProfLedonBandeiras.AssemblyInfo.cs
+C:\Users\Skip\source\repos\ExercicioProfLedonBandeiras\ExercicioProfLedonBandeiras\obj\Debug\netcoreapp3.1\ExercicioProfLedonBandeiras.csproj.CoreCompileInputs.cache
+C:\Users\Skip\source\repos\ExercicioProfLedonBandeiras\ExercicioProfLedonBandeiras\obj\Debug\netcoreapp3.1\ExercicioProfLedonBandeiras.dll
+C:\Users\Skip\source\repos\ExercicioProfLedonBandeiras\ExercicioProfLedonBandeiras\obj\Debug\netcoreapp3.1\ExercicioProfLedonBandeiras.pdb
+C:\Users\Skip\source\repos\ExercicioProfLedonBandeiras\ExercicioProfLedonBandeiras\obj\Debug\netcoreapp3.1\ExercicioProfLedonBandeiras.genruntimeconfig.cache
+C:\Users\Skip\source\repos\ExercicioProfLedonBandeiras\ExercicioProfLedonBandeiras\obj\Debug\netcoreapp3.1\ExercicioProfLedonBandeiras.Properties.Resources.resources
